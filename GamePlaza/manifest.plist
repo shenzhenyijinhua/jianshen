@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>org.game.jianshen</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.00</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>刀剑笑</string>
+				<string>刀箭江湖</string>
 			</dict>
 		</dict>
 	</array>
